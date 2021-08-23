@@ -1,0 +1,18 @@
+Show by id
+create (form)
+update post
+delete post
+validation
+index
+User Auth
+migration
+
+
+
+
+
+
+
+ÊÍÑíß ÇáßÈÓÇÊ ÚÇáíãíä
+ÇáÓáÇíÏÑ Çæá ÕİÍÉ
+ÇáÏÑæÈ ÊÈÚ ÇááæÛ ÇæÊ
